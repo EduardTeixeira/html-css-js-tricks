@@ -1,6 +1,6 @@
 body {
-    color: #fff;
-    background: #111;
+  color: #fff;
+  background: #111;
 }
 
 .container {
@@ -10,8 +10,10 @@ body {
   align-items: center;
 }
 
-.title{
+.title {
+  color: #dcdcdc;
   font-size: 30px;
-    font-weight: bold;
-    padding-bottom: 18px;
+  font-weight: bold;
+  padding-bottom: 18px;
+  text-decoration: underline wavy #1070c9;
 }
