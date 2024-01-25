@@ -1,8 +1,14 @@
 a {
-    padding: 8px;
-    color: #bd2e2e
+    margin: 6px;
+    padding: 6px;
+    color: #bd2e2e;
 }
 
 a:visited {
     color: #ff0043;
+}
+
+.container>a {
+    outline: 2px solid #b56f6f;
+    border-radius: 22px;
 }
